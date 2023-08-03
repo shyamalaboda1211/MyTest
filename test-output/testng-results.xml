@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-03T12:50:31 BST" name="Default suite" finished-at="2023-08-03T12:50:50 BST" duration-ms="19465">
+    <groups>
+    </groups>
+    <test started-at="2023-08-03T12:50:31 BST" name="Default test" finished-at="2023-08-03T12:50:50 BST" duration-ms="19465">
+      <class name="com.qa.testcases.ClickTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:com.qa.testcases.ClickTest@40844aab]" started-at="2023-08-03T12:50:31 BST" name="initialize" finished-at="2023-08-03T12:50:41 BST" duration-ms="10911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="verifyLabelText()[pri:0, instance:com.qa.testcases.ClickTest@40844aab]" started-at="2023-08-03T12:50:42 BST" name="verifyLabelText" description="Verify label text" finished-at="2023-08-03T12:50:48 BST" duration-ms="6893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLabelText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.ClickTest@40844aab]" started-at="2023-08-03T12:50:49 BST" name="tearDown" finished-at="2023-08-03T12:50:50 BST" duration-ms="1528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.ClickTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
